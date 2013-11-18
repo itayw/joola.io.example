@@ -1,0 +1,43 @@
+{
+  "name": "joola.io.example",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": "Joola <info@joo.la>",
+  "description": "joola.io's example skeleton",
+  "engine": "node >= 0.10.x",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joola/joola.io.example.git"
+  },
+  "bugs": "https://joolatech.atlassian.net/browse/JARVIS",
+  "contributors": [
+    {
+      "name": "Itay Weinberger",
+      "email": "itay@joo.la",
+      "url": "http://joo.la"
+    },
+    {
+      "name": "Or Weinberger",
+      "email": "or@joo.la",
+      "url": "http://joo.la"
+    }
+  ],
+  "scripts": {
+    "test": "make test",
+    "start": "node joola.io.config.js",
+    "debug": "npm-inspector && npm start && open \"http://http://127.0.0.1:8080/debug?port=5858\"",
+    "monitor": "mocha --reporter min --watch",
+    "debugtest": "mocha --debug-brk --reporter spec",
+    "blanket": {
+      "pattern": "lib",
+      "data-cover-never": "node_modules"
+    },
+    "coveralls": "mocha --require blanket --reporter mocha-lcov-reporter | node ./node_modules/coveralls/bin/coveralls.js",
+    "citest": "mocha --reporter xunit > test-reports.xml"
+  },
+  "dependencies": {
+    "joola.io": "3.x"
+  },
+  "license": "GPL-3.0"
+}
