@@ -22,8 +22,10 @@ framework while giving you a quick and easy starting point for your own implemen
 Forking this repository is a quick way to start your own analytics website, tailored to your needs.
 
 ### Installing
+Either clone this repo, or use the option above to fork it to your own space.
+
 ```bash
-$ npm install joola.io.example
+$ git clone https://github.com/joola/joola.io.example.git
 ```
 
 #### Using
