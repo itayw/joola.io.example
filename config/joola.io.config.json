@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+
+  "server": {
+    "port": 40001,
+    "securePort": 50001,
+    "secure": false,
+    "keyFile": "/certs/key.key",
+    "certFile": "/certs/cert.cert",
+    "controlPort": {
+      "enabled": true,
+      "port": 60001,
+      "secure": false,
+      "securePort": 70001,
+      "exitOnStop": true
+    }
+  },
+  "auth": {
+    "anonymous": false,
+    "whitelist": ["127.0.0.1"]
+  },
+  "store": {
+    "path": "/home/orw/dev/joola.io.example/config"
+  }
+}

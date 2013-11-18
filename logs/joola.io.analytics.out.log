@@ -1,0 +1,542 @@
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+[18939] 2013-11-18 14:11:23, 4 ms - [32minfo[39m: Control port running on port 60002
+[18939] 2013-11-18 14:11:23, 0 ms - [32minfo[39m: Joola Analytics HTTP server listening on port 40002
+[18939] 2013-11-18 14:11:23, 0 ms - [32minfo[39m: Initialization complete.
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+[TypeError: Cannot call method 'indexOf' of null]
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+FATAL EXCEPTION: Failed to load configuration file
+Error: Failed to load configuration file
+    at joola.config.add.callback (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/joola.io.analytics.js:54:15)
+    at IncomingMessage.<anonymous> (/home/orw/dev/joola.io.example/node_modules/joola.io/node_modules/joola.io.analytics/node_modules/nconf-http/lib/nconf-http.js:73:23)
+    at IncomingMessage.EventEmitter.emit (events.js:117:20)
+    at _stream_readable.js:920:16
+    at process._tickCallback (node.js:415:13)
+[23035] 2013-11-18 15:07:37, 45 ms - [32minfo[39m: Control port running on port 60002
+[23035] 2013-11-18 15:07:37, 1 ms - [32minfo[39m: Joola Analytics HTTP server listening on port 40002
+[23035] 2013-11-18 15:07:37, 1 ms - [32minfo[39m: Initialization complete.
+[23766] 2013-11-18 15:44:24, 43 ms - [32minfo[39m: Control port running on port 60002
+[23766] 2013-11-18 15:44:24, 1 ms - [32minfo[39m: Joola Analytics HTTP server listening on port 40002
+[23766] 2013-11-18 15:44:24, 0 ms - [32minfo[39m: Initialization complete.
