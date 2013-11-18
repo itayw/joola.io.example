@@ -26,14 +26,6 @@
   "scripts": {
     "test": "make test",
     "start": "node joola.io.config.js",
-    "debug": "npm-inspector && npm start && open \"http://http://127.0.0.1:8080/debug?port=5858\"",
-    "monitor": "mocha --reporter min --watch",
-    "debugtest": "mocha --debug-brk --reporter spec",
-    "blanket": {
-      "pattern": "lib",
-      "data-cover-never": "node_modules"
-    },
-    "coveralls": "mocha --require blanket --reporter mocha-lcov-reporter | node ./node_modules/coveralls/bin/coveralls.js",
     "citest": "mocha --reporter xunit > test-reports.xml"
   },
   "dependencies": {
