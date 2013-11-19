@@ -43,5 +43,7 @@
     "bootstrap": false,
     "authToken": "d2ead440-eb12-11e2-91e2-0800200c9a66",
     "loginRedirectUrl": null
-  }
+  },
+  "viewpath": "/home/orw/dev/joola.io.example/views",
+  "publicpath": "/home/orw/dev/joola.io.example/public"
 }
